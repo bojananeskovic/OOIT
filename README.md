@@ -1,6 +1,4 @@
 # OOIT
-Objektno orijentisane informacione tehnologije
-
 Aplikacija koja omogućava:
 1. dodavanje objekata klase Rectangle na stek,
 2. izuzimanje objekata klase Rectangle sa steka,
