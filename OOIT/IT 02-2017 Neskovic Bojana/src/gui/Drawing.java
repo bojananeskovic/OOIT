@@ -389,7 +389,7 @@ public class Drawing extends JFrame {
 							null
 							);
 					if (rezultat == JOptionPane.OK_OPTION) {
-						if(chckbxPopuniUnutrasnjost.isSelected()== true){
+						if(chckbxPopuniUnutrasnjost.isSelected()){
 							pnlCentar.addShape(new Rectangle(new Point(x, y), (int)unesiSirinu.getValue(),(int)unesiVisinu.getValue(), colorEdges, colorInside));
 							
 						}
